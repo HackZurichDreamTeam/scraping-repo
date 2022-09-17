@@ -10,3 +10,4 @@ requests==2.27.1
 selenium==4.4.3
 timedelta==2020.12.3
 webdriver_manager==3.8.3
+python==3.7
