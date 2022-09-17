@@ -1,4 +1,5 @@
 beautifulsoup4==4.11.1
+chromedriver_autoinstaller==0.4.0
 feedparser==6.0.10
 Flask==2.0.1
 geopy==2.2.0
@@ -9,4 +10,3 @@ requests==2.27.1
 selenium==4.4.3
 timedelta==2020.12.3
 webdriver_manager==3.8.3
-gunicorn==20.0.4
