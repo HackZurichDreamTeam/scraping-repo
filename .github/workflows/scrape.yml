@@ -2,7 +2,7 @@ name: scrap3
 
 on:
   schedule:
-    - cron: '*/30 * * * *' #
+    - cron: '*/5 * * * *' #
 
 jobs:
   build:
