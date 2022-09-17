@@ -135,3 +135,5 @@ def scrapePirates(jsonify=False):
         df_pirates.to_csv("scraped_pirates.csv",mode='a', index=False,header=False)
         return
     
+scrapeWeather()
+scrapePirates()
